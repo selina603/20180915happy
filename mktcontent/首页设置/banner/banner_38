@@ -1,0 +1,10 @@
+{
+	"sub_title":"",
+	"image_Url":"",
+	"dynamic_image":"",
+	"name":"酷夏狂欢购",
+	"id":"38",
+	"button_title":"",
+	"main_title":"",
+	"backgroud_image":"//img1.jcloudcs.com/cms/e40de5b9-9130-46d6-8770-e43aeeb3a62320170816140750.jpg"
+}
