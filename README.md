@@ -1,6 +1,6 @@
 [
 	{
-		"title":"Qwh/l229Ahn\\[tuuAtCvuoVQ=="
+		"title":"Qwh/l229Ahn\[tuuAtCvuoVQ=="
 	},
 	{
 		"name":"7*24 After-sales Support",
