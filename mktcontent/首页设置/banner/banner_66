@@ -1,0 +1,10 @@
+{
+	"sub_title":"新版本迎新春全面降价，最高降幅可达50%",
+	"image_Url":"//img1.jcloudcs.com/cms/3df09be9-f70c-4870-8462-e15269d6a7e120180208103326.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/4a509718-fe0f-4cc1-aca4-4662793f497620180208103113.png",
+	"name":"对象存储2.0重磅升级",
+	"id":"66",
+	"button_title":"了解详情",
+	"main_title":"对象存储2.0重磅发布",
+	"backgroud_image":"//img1.jcloudcs.com/cms/b0761253-4bc2-4b44-ab3f-21cccad924de20180208103120.png"
+}
