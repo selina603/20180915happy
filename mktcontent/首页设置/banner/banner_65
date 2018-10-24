@@ -1,0 +1,10 @@
+{
+	"sub_title":"京东云为企业与个人用户，提供一站式解决方案",
+	"image_Url":"//img1.jcloudcs.com/cms/a812673e-336b-455a-9121-fdf7107439ac20180404175831.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/a812673e-336b-455a-9121-fdf7107439ac20180404175831.png",
+	"name":"网站解决方案",
+	"id":"65",
+	"button_title":"立即体验",
+	"main_title":"网站解决方案",
+	"backgroud_image":"//img1.jcloudcs.com/cms/733708a9-b0a0-486f-aca6-938a789a45d520180404175828.png"
+}
