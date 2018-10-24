@@ -1,0 +1,10 @@
+{
+	"sub_title":"实名认证即可领取云主机免费试用",
+	"image_Url":"//img1.jcloudcs.com/cms/2741e57c-a878-4faa-870c-57b84a48bc9d20170308155348.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/3b76aa14-d1f6-4909-ba27-a3d87312732f20170308155343.png",
+	"name":"京东云体验官",
+	"id":"17",
+	"button_title":"立即试用",
+	"main_title":"新用户专享，祝您上云无忧",
+	"backgroud_image":""
+}
