@@ -1,0 +1,10 @@
+{
+	"sub_title":"",
+	"image_Url":"",
+	"dynamic_image":"//img1.jcloudcs.com/cms/66e2668c-0434-4274-9156-55f1fe1924c220170613104010.png",
+	"name":"618促销",
+	"id":"29",
+	"button_title":"",
+	"main_title":"",
+	"backgroud_image":"//img1.jcloudcs.com/cms/05fa6e75-cdf2-4a3b-b95e-c08ad73d6e2820170612090851.jpg"
+}
