@@ -1,0 +1,10 @@
+{
+	"sub_title":"按需自动调整资源规模的服务",
+	"image_Url":"//img1.jcloudcs.com/cms/f5d5e80d-0e25-4e94-ac8e-9b03f5a1e20620180518105801.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/6d47d0f7-f120-40cc-b879-23672e7fef9f20180518102201.png",
+	"name":"弹性伸缩正式上线",
+	"id":"87",
+	"button_title":"立即使用",
+	"main_title":"弹性伸缩正式上线",
+	"backgroud_image":""
+}
