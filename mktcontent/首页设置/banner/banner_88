@@ -1,0 +1,10 @@
+{
+	"sub_title":"多规格类型完美匹配多业务场景",
+	"image_Url":"//img1.jcloudcs.com/cms/167859f7-bb6c-4f3f-9061-ea12fe4eba2c20180521153825.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/920b232a-3344-4caf-abc4-102fdb9504fa20180521142125.png",
+	"name":"第二代云主机",
+	"id":"88",
+	"button_title":"了解更多",
+	"main_title":"第二代云主机，全新上线",
+	"backgroud_image":""
+}
