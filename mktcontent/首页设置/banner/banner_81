@@ -1,0 +1,10 @@
+{
+	"sub_title":"触及亿级电商用户，以行为精准定向研究人群",
+	"image_Url":"//img1.jcloudcs.com/cms/dbd540b3-3864-47ce-9a5d-2d3168b5576020180425190750.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/89731e25-8c2c-4fad-8fcf-b23b2c52308a20180425190211.png",
+	"name":"京东云·Matrix洞察",
+	"id":"81",
+	"button_title":"了解详情",
+	"main_title":"京东云·Matrix洞察",
+	"backgroud_image":""
+}
