@@ -1,0 +1,10 @@
+{
+	"sub_title":"跨可用区的物理分散容灾部署方案",
+	"image_Url":"//img1.jcloudcs.com/cms/f9864708-7065-41a0-987a-f2e29539277d20180529200152.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/afd390d9-7947-42be-b923-52ee9c11bef520180529200147.png",
+	"name":"高可用组",
+	"id":"89",
+	"button_title":"立即申请",
+	"main_title":"高可用组震撼上线",
+	"backgroud_image":""
+}
