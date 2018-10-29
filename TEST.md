@@ -8,7 +8,7 @@ test
 </tr>
 </table>
 # 2
-```&&&
+```
 java.util.time
 
 public class T{
