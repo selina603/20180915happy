@@ -11,7 +11,7 @@ test
 `test`
 
 # 3
-```code
+```json
 java.util.time
 
 public class T{
