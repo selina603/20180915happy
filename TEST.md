@@ -6,9 +6,10 @@ test
 `test`
 
 # 3
+<xmp>
+```
+
+test
 
 ```
-<xmp>
-test
 </xmp>
-```
