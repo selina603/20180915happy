@@ -1,0 +1,10 @@
+{
+	"sub_title":"集中访问和共享文件，助力企业挣脱办公压力，提高工作效率",
+	"image_Url":"//img1.jcloudcs.com/cms/0a766f2c-4727-4d4f-a6cf-57d4ea14414820180417120158.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/a910fbe4-773b-40a7-ad57-a4f97d49d17520180417120109.png",
+	"name":"京东云PLUS企业云盘",
+	"id":"64",
+	"button_title":"免费试用",
+	"main_title":"京东云PLUS企业云盘",
+	"backgroud_image":"//img1.jcloudcs.com/cms/742cde11-90c5-49a2-8c35-e79a116290ad20180103162428.png"
+}
