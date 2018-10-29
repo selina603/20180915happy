@@ -8,10 +8,7 @@ test
 </tr>
 </table>
 # 2
-`test`
-
-# 3
-```json
+```&&&
 java.util.time
 
 public class T{
@@ -20,18 +17,14 @@ private void test(){
 }}
 ```
 
+# 3
 
-<json>
-  </json>
-  
-  
-  ```java
-  
-  ```
-  
-  ```&&&
-  
-  <codegl>
-  </codegl>
-  <xmp>
-  <xmp>
+```java
+java.util.time
+
+public class T{
+private void test(){
+
+}}
+```
+
