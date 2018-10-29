@@ -1,0 +1,10 @@
+{
+	"sub_title":"提供T3+优质机房，高可靠性电力及网络保障的托管服务",
+	"image_Url":"//img1.jcloudcs.com/cms/4ebeffae-a1b0-40f6-b54f-01576a83db2720180830190526.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/cdd9c18a-d258-4814-b03c-9d08240281d220180830190530.png",
+	"name":"云托管服务开放公测",
+	"id":"107",
+	"button_title":"查看详情",
+	"main_title":"云托管服务开放公测",
+	"backgroud_image":""
+}
