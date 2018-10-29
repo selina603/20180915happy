@@ -1,0 +1,10 @@
+{
+	"sub_title":"提供免费大数据关联分析、多源日志接入、威胁模型关联",
+	"image_Url":"//img1.jcloudcs.com/cms/a0b54518-0e7d-43ed-ae1c-c0340a7527b920180716114737.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/72e3c770-61d3-4116-8483-ec5052f71e2820180716114741.png",
+	"name":"云态势感知2.0重新定义云SOC",
+	"id":"100",
+	"button_title":"立即申请",
+	"main_title":"云态势感知2.0重新定义云SOC",
+	"backgroud_image":""
+}
