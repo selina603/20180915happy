@@ -8,5 +8,7 @@ test
 # 3
 
 ```
+<xmp>
 test
+</xmp>
 ```
