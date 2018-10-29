@@ -1,0 +1,10 @@
+{
+	"sub_title":"华北地域上线新可用区，提供跨可用区级的高可用服务保障",
+	"image_Url":"//img1.jcloudcs.com/cms/7a99ffad-77c6-4072-ae6f-11dfd79c23c220171221204757.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/dce2250a-20e0-4e26-a045-91dea263b0ca20171221204746.png",
+	"name":"华北多AZ",
+	"id":"58",
+	"button_title":"立即体验",
+	"main_title":"华北新可用区正式上线",
+	"backgroud_image":"//img1.jcloudcs.com/cms/2dfea5ca-04d2-41b6-8429-3d17e001344920171207201022.png"
+}
