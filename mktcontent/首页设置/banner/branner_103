@@ -1,0 +1,10 @@
+{
+	"sub_title":"独享、隔离、高性能的物理服务器租赁服务",
+	"image_Url":"//img1.jcloudcs.com/cms/796457d4-3e84-4122-abdb-0b76f0de866720180719201716.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/e7d16e62-a51d-4559-b809-a2c70fc5c8cb20180719201722.png",
+	"name":"云物理服务器上线—特惠1折抢购",
+	"id":"103",
+	"button_title":"立即申请",
+	"main_title":"云物理服务器上线—特惠1折抢购",
+	"backgroud_image":""
+}
