@@ -1,0 +1,10 @@
+{
+	"sub_title":"简单易用、安全隔离、秒级启动、秒级计费",
+	"image_Url":"//img1.jcloudcs.com/cms/f591a6cc-cb20-4e7e-8a69-c48b2bedc26020180511104115.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/c6e999c3-4780-4b1f-a1bf-13f9676c8b1f20180510174015.png",
+	"name":"容器服务上新",
+	"id":"84",
+	"button_title":"立即体验",
+	"main_title":"容器服务，5折促销",
+	"backgroud_image":""
+}
