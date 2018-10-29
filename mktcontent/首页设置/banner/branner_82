@@ -1,0 +1,10 @@
+{
+	"sub_title":"为中小企业提升协同办公效率，提供安全可靠架构，助力产业升级",
+	"image_Url":"//img1.jcloudcs.com/cms/affc237d-56df-43ef-99d2-afc8bd96815320180504171351.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/63cf0146-4524-4d9e-8c48-f791a71fa8b420180504164002.png",
+	"name":"企业智享上云解决方案",
+	"id":"82",
+	"button_title":"一键上云",
+	"main_title":"企业智享上云解决方案",
+	"backgroud_image":""
+}
