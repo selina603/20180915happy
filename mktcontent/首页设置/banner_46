@@ -1,0 +1,10 @@
+{
+	"sub_title":"",
+	"image_Url":"",
+	"dynamic_image":"//img1.jcloudcs.com/cms/48cfa54d-2349-4dd9-87c0-ffaea5e0974b20170922181515.png",
+	"name":"万象促销",
+	"id":"46",
+	"button_title":"",
+	"main_title":"",
+	"backgroud_image":"//img1.jcloudcs.com/cms/08d6a55d-aca2-4d1d-a616-bdfe1ba3ee7720170922181521.jpg"
+}
