@@ -1,0 +1,10 @@
+{
+	"sub_title":"注册企业购用户送1088京豆",
+	"image_Url":"//img1.jcloudcs.com/cms/4d9a3011-b706-448b-90cb-cfda93edbfef20180515163659.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/6294a5b2-f2e7-48be-b36c-4bf3bcfab1b220180515163636.png",
+	"name":"京东云赋能企业购",
+	"id":"85",
+	"button_title":"立即抢购",
+	"main_title":"京东云赋能企业购",
+	"backgroud_image":""
+}
