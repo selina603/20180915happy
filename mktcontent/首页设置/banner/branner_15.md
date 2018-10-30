@@ -1,0 +1,10 @@
+{
+	"sub_title":"买两个月送一个月",
+	"image_Url":"//img1.jcloudcs.com/cms/7c6485ec-78e4-4688-944c-cefcd29113f120170221104611.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/5ee04cf0-839d-4158-a602-a32abc466a5a20170221104618.png",
+	"name":"京东云开年有礼",
+	"id":"15",
+	"button_title":"立即购买",
+	"main_title":"京东云新购有礼",
+	"backgroud_image":"//img1.jcloudcs.com/cms/cdf7c100-7d92-48fa-8f0b-364003c93ece20170309180638.png"
+}
