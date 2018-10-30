@@ -1,0 +1,10 @@
+{
+	"sub_title":"一对一服务，300+模板，快速搭建您所需网站",
+	"image_Url":"//img1.jcloudcs.com/cms/81266357-d22b-4e08-b473-4fc9c360e2f320170109151758.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/2f4e726f-eaf5-488f-a7f2-59af9480df7d20170109151804.png",
+	"name":"京东云官方智能建站",
+	"id":"9",
+	"button_title":"立即购买",
+	"main_title":"京东云官方智能建站",
+	"backgroud_image":""
+}
