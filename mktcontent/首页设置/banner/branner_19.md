@@ -1,0 +1,10 @@
+{
+	"sub_title":"500元E卡免费抽，百万全品类券限量抢",
+	"image_Url":"//img1.jcloudcs.com/cms/d3e70edb-bef4-481d-9b23-95c5cdd6f2c620170315183112.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/42646faf-e6c0-484f-ae71-978e4670cda820170315183105.png",
+	"name":"京东企业购",
+	"id":"19",
+	"button_title":"查看详情",
+	"main_title":"企业采购节",
+	"backgroud_image":""
+}
