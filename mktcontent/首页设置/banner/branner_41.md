@@ -1,0 +1,10 @@
+{
+	"sub_title":"买数据送京东E卡，满1万元送价值400元京东E卡一张",
+	"image_Url":"//img1.jcloudcs.com/cms/cdb5c33b-5eb6-4435-939d-417750fd2f8120170829144526.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/efcd47db-43e0-4489-bd7b-24beb0a754d820170829144532.png",
+	"name":"万象促销",
+	"id":"41",
+	"button_title":"立即抢购",
+	"main_title":"京东万象周年庆",
+	"backgroud_image":""
+}
