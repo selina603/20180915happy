@@ -1,0 +1,10 @@
+{
+	"sub_title":"基于Intel最新一代Skylake处理器，计算、内存等性能显著提升",
+	"image_Url":"//img1.jcloudcs.com/cms/033d19b6-bdf3-4d95-816d-68e43781c89f20170714020436.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/80ed0236-3d48-4500-a2c5-1c9a4fc2b59a20170714020440.png",
+	"name":"sky云主机",
+	"id":"33",
+	"button_title":"查看详情",
+	"main_title":"下一代Skylake云主机",
+	"backgroud_image":""
+}
