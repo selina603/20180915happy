@@ -1,0 +1,10 @@
+{
+	"sub_title":"降价最高达20%",
+	"image_Url":"//img1.jcloudcs.com/cms/3ec88eb3-a4c1-4aa7-893b-48800882ecec20170320185717.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/bc3904cc-6488-46b8-829c-bbbc191856da20170320185722.png",
+	"name":"云主机降价",
+	"id":"20",
+	"button_title":"立即购买",
+	"main_title":"香港区云主机再次降价",
+	"backgroud_image":"//img1.jcloudcs.com/cms/c29f293a-5e61-43ac-88ce-58293e5c29ad20170320185532.jpg"
+}
