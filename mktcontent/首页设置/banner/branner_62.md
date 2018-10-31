@@ -1,0 +1,10 @@
+{
+	"sub_title":"3月20日-4月20日，产品限时低至3折",
+	"image_Url":"//img1.jcloudcs.com/cms/b0fe356f-135f-48ef-87e0-9b1dabfce7c020180321104835.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/f0bd0f09-00e5-42bd-9d79-7dff0f1f06ab20180321104723.png",
+	"name":"泛零售解决方案",
+	"id":"62",
+	"button_title":"立即体验",
+	"main_title":"泛零售解决方案",
+	"backgroud_image":""
+}
