@@ -1,0 +1,10 @@
+{
+	"sub_title":"管理节点全托管，快速创建高可靠、功能强大的Kubernetes服务",
+	"image_Url":"//img1.jcloudcs.com/cms/4edbfe6f-8611-4f9b-b291-7f1d4c4571ee20180719111838.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/bf1b1c38-3503-47dd-baf0-6ae29542c4f320180719111858.png",
+	"name":"Kubernetes集群开放公测",
+	"id":"102",
+	"button_title":"查看详情",
+	"main_title":"Kubernetes集群开放公测",
+	"backgroud_image":""
+}
