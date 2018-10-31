@@ -1,0 +1,6 @@
+{
+	"name":"弹性伸缩",
+	"description":"按需自动调整资源规模的服务",
+	"id":"104",
+	"button_title":""
+}
