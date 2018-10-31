@@ -1,0 +1,10 @@
+{
+	"sub_title":"内网级互联、融合安全与敏捷、一站式服务",
+	"image_Url":"//img1.jcloudcs.com/cms/931e3364-5eaf-4002-b92b-bb297aaff91f20171124103518.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/e98f93ee-69a6-4f68-9360-81d614fae45020171124103403.png",
+	"name":"混合云解决方案重磅发布",
+	"id":"51",
+	"button_title":"立即查看",
+	"main_title":"混合云解决方案重磅发布",
+	"backgroud_image":""
+}
