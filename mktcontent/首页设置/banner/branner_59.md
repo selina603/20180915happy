@@ -1,0 +1,10 @@
+{
+	"sub_title":"年终底价狂欢，续费秒杀抽奖惊喜不断",
+	"image_Url":"//img1.jcloudcs.com/cms/d7655966-9b06-4c44-b7e8-641f85c77ff420171221204512.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/062a6062-ad20-4de3-b0a0-812e9cfa378620171221204503.png",
+	"name":"年终大促",
+	"id":"59",
+	"button_title":"优惠直达",
+	"main_title":"年终大放价",
+	"backgroud_image":"//img1.jcloudcs.com/cms/be44f60a-bf21-4f97-9011-db50f9d3377420171215093441.png"
+}
