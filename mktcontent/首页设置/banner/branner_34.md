@@ -1,0 +1,10 @@
+{
+	"sub_title":"云服务器免费半年，为您提供更加方便快捷的上云实践机会",
+	"image_Url":"//img1.jcloudcs.com/cms/a9b4cd6f-6cbb-4d28-842b-80fc11ae538d20171221210632.png",
+	"dynamic_image":"//img1.jcloudcs.com/cms/965bf0be-0192-493c-9bcf-14971248340f20171221210629.png",
+	"name":"免费试用",
+	"id":"34",
+	"button_title":"立即体验",
+	"main_title":"免费套餐",
+	"backgroud_image":""
+}
