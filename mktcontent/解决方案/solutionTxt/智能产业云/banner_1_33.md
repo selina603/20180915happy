@@ -1,0 +1,6 @@
+{
+	"txt":"{\"operator\":\"zhouyuqing8\",\"floorName\":\"优势\",\"name\":\"advantage\",\"data\":[{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cde4a184-b66e-47b9-bac4-1840cd4120cf20180822152555.png\",\"title\":\"充分发挥京东资源作用\",\"description\":\"整合京东内部资源，充分协调与运用京东云、京东智能、京东商城的技术能力与商业能力。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/95d62a5a-b7ee-420e-9efb-206546601e5820180822152601.png\",\"title\":\"地方产业推动作用明显\",\"description\":\"充分带动地方政府、企业创新资源与营销资源的运用，为企业提供人才资源，真正实现兴业。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bfb84ea1-6468-4339-8b9e-cf1e96eb23fb20180822152609.png\",\"title\":\"优良智能产品上市\",\"description\":\"为企业的智能产品上市提供了大数据资源与产品开发方案，帮助智能产品能够在众多产品中获得发行机会。\"},{\"showShade\":false,\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/80304c0a-ba27-4a62-9c84-bcf53fc2afb520180830162130.png\",\"title\":\"定制化云及大数据服务\",\"description\":\"为智能产品及行业解决方案提供智能上云解决方案，并通过京东及生态大数据资源实现产品创新及服务优化。\"}]}",
+	"templet":"51",
+	"id":"33",
+	"solution_id":"4"
+}
