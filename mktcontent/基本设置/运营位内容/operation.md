@@ -35,7 +35,7 @@
 		"id":"7"
 	},
 	{
-		"name":"京东云Plus服务",
+		"name":"京东云Plus服务1",
 		"description":"企业一站式服务",
 		"id":"8"
 	}
