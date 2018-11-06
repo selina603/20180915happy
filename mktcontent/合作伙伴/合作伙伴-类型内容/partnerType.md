@@ -20,7 +20,7 @@
 		"id":"4"
 	},
 	{
-		"partner_type":"核心伙伴",
+		"partner_type":"核心伙伴1",
 		"description":"123",
 		"id":"5"
 	},
