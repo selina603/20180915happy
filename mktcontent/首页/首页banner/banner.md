@@ -33,7 +33,7 @@
 		"sub_title":"",
 		"image_Url":"",
 		"dynamic_image":"//img1.jcloudcs.com/cms/3e77f69a-7816-4ad1-ba23-b13ff0f77e4020170306165814.png",
-		"name":"战略发布会",
+		"name":"战略发布会1",
 		"id":"16",
 		"button_title":"",
 		"main_title":"",
